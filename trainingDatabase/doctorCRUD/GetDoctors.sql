@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE GetDoctors
+AS
+BEGIN
+    SELECT * FROM Doctors;
+END;
